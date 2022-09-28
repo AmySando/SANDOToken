@@ -4,6 +4,7 @@
     	"seller_fee_basis_points": 0,
 	"description": "Sando token are utillity token for Sandora Soceity.",
 	"image": "https://raw.githubusercontent.com/AmySando/SANDOToken/main/SANDO%20(200x200).png",
+	"isMutable": 1,
     	"extensions": {
         	"address": "0x719B30C28836cEfD9D91C88136Db2c6fc346e223",
         	"assetContract": "https://rinkeby.etherscan.io/address/0x719B30C28836cEfD9D91C88136Db2c6fc346e223",
